@@ -1,16 +1,25 @@
-## Hi there 👋
+# Uttom Chandra Roy
 
-<!--
-**uttomchandraroy227-rgb/uttomchandraroy227-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Bangladeshi student currently studying in India. I am pursuing BCA and Computer Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in programming, software development, and technology. I use GitHub to learn, practice coding, and share my projects.
+
+## Interests
+
+- Programming
+- Web Development
+- Software Development
+- Open Source
+
+## Goals
+
+- Improve my programming skills
+- Build practical projects
+- Contribute to open-source projects
+- Collaborate with developers worldwide
+
+## Contact
+
+GitHub: https://github.com/uttomchandraroy227-rgb
